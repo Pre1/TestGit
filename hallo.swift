@@ -15,3 +15,5 @@ println("Hey, Git!")
 // description
 
 // - keep each line to less than 72 characters
+
+// HEAD is pointer that points to last commit in current repo
