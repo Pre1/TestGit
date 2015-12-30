@@ -1,6 +1,7 @@
-#!/usr/bin/env xcrun swift
-
+#!/usr/bin/env xcrun swift 
 print("Hey, Git!")
+print("test")
+
 
 // make changes
 // add the changes -> git add .
