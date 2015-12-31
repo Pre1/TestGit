@@ -1,7 +1,6 @@
 #!/usr/bin/env xcrun swift 
 print("Hey, Git!")
 print("test")
-print("test")
 
 
 // make changes
