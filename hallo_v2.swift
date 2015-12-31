@@ -1,7 +1,7 @@
 #!/usr/bin/env xcrun swift 
 print("Hey, Git!")
 print("test")
-
+print("playing with soft, mixxed and haed reset")
 
 // make changes
 // add the changes -> git add .
