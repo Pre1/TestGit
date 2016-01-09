@@ -3,6 +3,7 @@ print("Hey, Git!")
 print("test")
 print("playing with soft, mixxed and haed reset")
 let test = "Testting new braches"
+print("testing new feature")
 // make changes
 // add the changes -> git add .
 // commit changes to repo w/ msg
