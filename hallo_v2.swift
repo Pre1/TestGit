@@ -5,7 +5,7 @@ print("with soft, mixxed and haed reset")
 let test = "Testting new braches"
 // get how many characters in the string
 let countString: Int = test.characters.count
-print("testing new feature")
+print("conflicting new feature")
 // make changes
 // add the changes -> git add .
 // commit changes to repo w/ msg
