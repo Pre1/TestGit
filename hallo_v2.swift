@@ -1,7 +1,7 @@
 #!/usr/bin/env xcrun swift 
 print("Hey, Git!")
 print("test")
-print("playing with soft, mixxed and haed reset")
+print("with soft, mixxed and haed reset")
 let test = "Testting new braches"
 // get how many characters in the string
 let countString: Int = test.characters.count
